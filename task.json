@@ -1,0 +1,50 @@
+{
+    "name": "Vijayanand",
+    "title": "business analyst",
+    "contact": {
+      "email": "va99289@gmail.com",
+      "phone": "8667871166",
+      "location": "2/81 lakshmi amman koil street ch-67"
+    },
+    "summary": "Experienced in banking BFSI and dedicated to continuous learning.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "Git",
+      "Excel",
+    ],
+    "experience": [
+      {
+        "position": "senior business processing associate",
+        "company": "T.c.s",
+        "location": "Chennai one",
+        "dates": "mar 2024 - Present",
+        "responsibilities": [
+          "maintaining bank transations by daily base.",
+          "processing the cheque,DD,ATM proofing all related to BAU process",
+          "Moving the fund to nastro to customer account as per the instruction give by the other teams like ft,recon etc."
+        ]
+      },
+      
+    ],
+    "education": [
+      {
+        "degree": "B.E",
+        "location": "CHENNAI",
+        "dates": "August 2014 - May 2018"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Intermediate"
+      }
+    ]
+  }
